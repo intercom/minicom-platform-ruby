@@ -1,0 +1,4 @@
+#!/bin/bash
+./bin/determinator
+gem install bundler
+bundle install
